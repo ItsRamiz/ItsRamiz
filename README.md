@@ -1,9 +1,10 @@
-# ItsRamiz ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
+# Ramiz Srour ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
 
 Software Engineer | DevOps Enthusiast
 
 ## 📝 About Me
-I'm a software engineer with a focus on software development, DevOps, and cloud infrastructure. I specialize in creating scalable solutions using a variety of programming languages and cloud-based tools.
+Senior **Computer Science** student, Strong development skills and a proven record of extensive hands-on experience in collaborative and cross-university projects.
+Planning to pursue an MSc. I've worked on various projects in different fields, and I'm particularly interested in **computer vision** and **reinforcement learning**.
 
 ## 🛠️ Coding Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
