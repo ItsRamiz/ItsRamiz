@@ -31,5 +31,6 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?quote=Your%20custom%20quote%20here&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
