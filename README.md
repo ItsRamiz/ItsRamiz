@@ -1,4 +1,4 @@
-# Ramiz Srour - Software Engineer ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
+# Ramiz Srour - B.Sc. Computer Science ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
 
 ## 📝 About Me
 👨‍💻 **Senior Computer Science student** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** next year. 🚀  
