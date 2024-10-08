@@ -22,11 +22,11 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-0071C5?style=flat&logo=vmware&logoColor=white)
 
-## 🎸 Hobbies & Interests
-🎵 **Guitarist** - I enjoy playing guitar in my free time.  
-🏄‍♂️ **Surfing** - Love hitting the waves whenever I get a chance.  
-🏋️ **Gym** - I’m a fitness enthusiast and enjoy maintaining a healthy lifestyle.  
-🥾 **Hiking** - Enjoy exploring new trails and being in nature.
+## Hobbies & Interests
+🎸 **Guitarist**
+🏄‍♂️ **Surfing**
+🏋️ **Gym**
+🥾 **Hiking**
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
