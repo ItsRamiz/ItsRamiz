@@ -1,8 +1,8 @@
 # Ramiz Srour - Software Engineer ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
 
 ## 📝 About Me
-👨‍💻 Senior Computer Science student with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an MSc next year. 🚀
-Over the years, I’ve worked on a variety of projects across different fields, but I’m particularly drawn to computer vision and reinforcement learning. 🔍 I enjoy working in fast-paced environments with tech enthusiasts, diving deep into complex CS problems. Continuously learning new things to stay at the forefront of technology. 🤓
+👨‍💻 **Senior Computer Science student** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** next year. 🚀  
+Over the years, I’ve worked on a variety of projects across different fields, but I’m particularly drawn to **computer vision** and **reinforcement learning**. 🔍 I enjoy working in fast-paced environments with tech enthusiasts, diving deep into complex **CS problems**. Continuously learning new things to stay at the forefront of technology. 🤓
 
 ## 🛠️ Coding Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,6 +21,12 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-0071C5?style=flat&logo=vmware&logoColor=white)
+
+## 🎸 Hobbies & Interests
+🎵 **Guitarist** - I enjoy playing guitar in my free time.  
+🏄‍♂️ **Surfing** - Love hitting the waves whenever I get a chance.  
+🏋️ **Gym** - I’m a fitness enthusiast and enjoy maintaining a healthy lifestyle.  
+🥾 **Hiking** - Enjoy exploring new trails and being in nature.
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
