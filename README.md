@@ -5,7 +5,7 @@ Software Engineer | DevOps Enthusiast
 ## 📝 About Me
 I'm a software engineer with a focus on software development, DevOps, and cloud infrastructure. I specialize in creating scalable solutions using a variety of programming languages and cloud-based tools.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Coding Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -23,13 +23,5 @@ I'm a software engineer with a focus on software development, DevOps, and cloud 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-0071C5?style=flat&logo=vmware&logoColor=white)
 
-## 🌐 Languages
-- **Python**
-- **Java**
-- **C++**
-- **C#**
-- **C**
-
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsRamiz&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
