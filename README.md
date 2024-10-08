@@ -21,7 +21,7 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![VMs](https://img.shields.io/badge/Virtual_Machines-0071C5?style=flat&logo=vmware&logoColor=white)
 
-
+## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiz-srour)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramiz.srour1@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ramiz_srour)
