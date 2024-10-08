@@ -30,3 +30,20 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsRamiz&show_icons=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsRamiz&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ItsRamiz&theme=react-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsRamiz&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsRamiz&repo=repo-name&theme=radical)](https://github.com/ItsRamiz/repo-name)
+
+![Metrics](https://metrics.lecoq.io/ItsRamiz?template=classic&isocalendar=1&base=header%2C%2C10&isocalendar.duration=half-year&config.timezone=Etc%2FUTC)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ItsRamiz&color=brightgreen)
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
