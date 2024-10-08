@@ -1,6 +1,5 @@
 # Ramiz Srour ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
-
-Software Engineer | DevOps Enthusiast
+Software Engineer
 
 ## 📝 About Me
 Senior **Computer Science** student, Strong development skills and a proven record of extensive hands-on experience in collaborative and cross-university projects.
