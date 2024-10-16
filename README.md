@@ -1,7 +1,7 @@
 # Ramiz Srour - B.Sc. Computer Science ![👋](https://user-images.githubusercontent.com/33158051/112127039-18476400-8bc4-11eb-90cc-53b9f3af651c.gif)
 
 👨‍💻 **Senior Computer Science student** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** next year. 🚀  
-Over the years, I’ve worked on a variety of projects across different fields, but I’m particularly drawn to **Computer Vision** and **Reinforcement Learning** and **Game Development**. 🔍 I enjoy working in fast-paced environments with tech enthusiasts, diving deep into complex **CS problems**. Continuously learning new things to stay at the forefront of technology. 🤓
+Over the years, I’ve worked on a variety of projects across different fields, but I’m particularly drawn to **Computer Vision** and **Reinforcement Learning** and **Game Development**. 🔍 I enjoy working in fast-paced environments with tech enthusiasts, diving deep into complex problems. Continuously learning new things to stay at the forefront of technology. 🤓
 
 ## 🛠️ Coding Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
