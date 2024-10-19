@@ -37,3 +37,5 @@ Over the years, I’ve worked on a variety of projects across different fields, 
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRamiz&layout=compact&theme=radical)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/RamizSrour)
