@@ -1,5 +1,5 @@
 
-## B.Sc. Computer Science Student
+## Ramiz Srour - B.Sc. Computer Science Student
 
 
 👨‍💻 **Senior Computer Science student** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** next year. 🚀  
