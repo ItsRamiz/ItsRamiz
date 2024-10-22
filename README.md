@@ -2,7 +2,7 @@
 ## Ramiz Srour - B.Sc. Computer Science
 
 
-👨‍💻 **Software Engineer** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** next year. 🚀  
+👨‍💻 **Software Engineer** with strong development skills and hands-on experience in extensive collaborative and cross-university projects. I’m planning to pursue an **MSc** in the next years. 🚀  
 Over the years, I’ve worked on a variety of projects across different fields, but I’m particularly drawn to **Computer Vision** and **Reinforcement Learning** and **Game Development**. 🔍 I enjoy working in fast-paced environments with tech enthusiasts, diving deep into complex problems. Continuously learning new things to stay at the forefront of technology. 🤓
 
 ## 🛠️ Coding Languages & Tools
